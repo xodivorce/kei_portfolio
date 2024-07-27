@@ -47,8 +47,8 @@ if(isset($_POST['name']) && isset($_POST['phone']) && isset($_POST['email']) && 
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Student Information System</title>
-    <link rel="stylesheet" type="text/css" href="styles.css">
-    <link rel="icon" type="image/png" href="assets/images/kei1.png">
+    <link rel="stylesheet" type="text/css" href="./assets/css/styles.css">
+    <link rel="icon" type="image/png" href="./assets/images/kei1.png">
 </head>
 <body>
     <h1>KINGSTON EDUCATIONAL INSTITUTE</h1>
@@ -83,7 +83,7 @@ if(isset($_POST['name']) && isset($_POST['phone']) && isset($_POST['email']) && 
             <div class="loader"></div>
           </div>     
     </form>
-    <script src="script.js"></script>
+    <script src="./assets/js/script.js"></script>
 </body>
 <footer>
     <p> <a href="https://keical.edu.in">About us</a> |

@@ -2,7 +2,7 @@
 
 ### Welcome to XODIVORCE. - deveoped by [@xodivorce](https://instagram.com/xodivorce) ✨
 [![status](https://img.shields.io/badge/status-active-brightgreen.svg?style=flat)](https://github.com/xodivorce/xodivorce-portfolio/)
-[![version](https://img.shields.io/badge/version-v1.1.1-yellow.svg?style=flat)](https://github.com/xodivorce/xodivorce-portfolio/)
+[![version](https://img.shields.io/badge/version-v1.1.2-yellow.svg?style=flat)](https://github.com/xodivorce/xodivorce-portfolio/)
 [![PRs](https://img.shields.io/badge/PRs-welcome-blue.svg?style=flat)](https://github.com/xodivorce/xodivorce-portfolio/)
 <br></br>
 
@@ -101,7 +101,7 @@ Don’t be shy! [*Open an issue*](https://github.com/xodivorce/kei_portfolio/iss
 
 ### 📝 License & Usage
 
-Prasid Mandal(xodivorce) - kei-portfolio Website is a Fully Open Sourced Project licensed under [**MIT License**](LICENSE.txt). Anyone can view, modify, use (personal and commercial) or distribute it's sources without any attribution and extra permissions.
+Prasid Mandal(xodivorce) - kei_portfolio Website is a Fully Open Sourced Project licensed under [**MIT License**](LICENSE.txt). Anyone can view, modify, use (personal and commercial) or distribute it's sources without any attribution and extra permissions.
 
 **🌟 Liked this project? Please consider giving it a star to show me your appreciation.**
 <br></br>

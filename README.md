@@ -1,9 +1,9 @@
 # [Student Information System Website](https://github.com/xodivorce/kei-portfolio)
 
 ### Welcome to XODIVORCE - deveoped by [@xodivorce](https://instagram.com/xodivorce) ✨
-[![status](https://img.shields.io/badge/status-active-brightgreen.svg?style=flat)](https://github.com/xodivorce/xodivorce-portfolio/)
-[![version](https://img.shields.io/badge/version-v1.1.4-yellow.svg?style=flat)](https://github.com/xodivorce/xodivorce-portfolio/)
-[![PRs](https://img.shields.io/badge/PRs-welcome-blue.svg?style=flat)](https://github.com/xodivorce/xodivorce-portfolio/)
+[![status](https://img.shields.io/badge/status-active-brightgreen.svg?style=flat)](https://github.com/xodivorce/kei-portfolio/)
+[![version](https://img.shields.io/badge/version-v1.1.5=yellow.svg?style=flat)](https://github.com/xodivorce/kei-portfolio/)
+[![PRs](https://img.shields.io/badge/PRs-welcome-blue.svg?style=flat)](https://github.com/xodivorce/kei-portfolio/)
 <br></br>
 
 ### 📌 Tech Stack

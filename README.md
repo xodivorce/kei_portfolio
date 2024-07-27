@@ -2,7 +2,7 @@
 
 ### Welcome to XODIVORCE. - deveoped by [@xodivorce](https://instagram.com/xodivorce) ✨
 [![status](https://img.shields.io/badge/status-active-brightgreen.svg?style=flat)](https://github.com/xodivorce/xodivorce-portfolio/)
-[![version](https://img.shields.io/badge/version-v1.0.8-yellow.svg?style=flat)](https://github.com/xodivorce/xodivorce-portfolio/)
+[![version](https://img.shields.io/badge/version-v1.1.0-yellow.svg?style=flat)](https://github.com/xodivorce/xodivorce-portfolio/)
 [![PRs](https://img.shields.io/badge/PRs-welcome-blue.svg?style=flat)](https://github.com/xodivorce/xodivorce-portfolio/)
 <br></br>
 
@@ -12,7 +12,6 @@
 ![JAVASCRIPT](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
 
 ### 🛠️ How to Contribute: Let’s Make Magic!
 
@@ -65,16 +64,22 @@ Want to jump in and sprinkle some magic on this project? Follow these steps:
      http://localhost/kei_portfolio/htdocs/index.php
      ```
 
-6. **Create a Feature Branch**:
+6. **Pro Tip**: Use a Self-Signed SSL for local development to keep everything smooth and secure with HTTPS. 🔐
+
+7. **Having Issues?**:
+   - Ensure you follow the steps correcly. For help, email me at:
+     *hey@xodivorce.in*
+
+8. **Create a Feature Branch**:
    - Before diving in, create a new branch for your feature or fix:
      ```bash
      git checkout -b cool-new-feature
      ```
 
-7. **Work Your Magic**:
+9. **Work Your Magic**:
    - Make your changes, test them, and get ready for a pull request.
 
-8. **Commit and Push**:
+10. **Commit and Push**:
    - Once you’re happy, commit and push your changes:
      ```bash
      git add .
@@ -82,10 +87,10 @@ Want to jump in and sprinkle some magic on this project? Follow these steps:
      git push origin cool-new-feature
      ```
 
-9. **Open a Pull Request**:
+11. **Open a Pull Request**:
    - Go to the main repository and create a pull request. Let us know what you’ve done and why it’s awesome!
 
-10. **Celebrate Your Contribution** 🎉:
+12. **Celebrate Your Contribution** 🎉:
     - Enjoy the glory of your awesome contribution! We appreciate all your help and ideas.
 
 🚀 **Got Ideas or Spotted a Bug?**  

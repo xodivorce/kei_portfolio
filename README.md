@@ -2,7 +2,7 @@
 
 ### Welcome to XODIVORCE. - deveoped by [@xodivorce](https://instagram.com/xodivorce) ✨
 [![status](https://img.shields.io/badge/status-active-brightgreen.svg?style=flat)](https://github.com/xodivorce/xodivorce-portfolio/)
-[![version](https://img.shields.io/badge/version-v1.1.0-yellow.svg?style=flat)](https://github.com/xodivorce/xodivorce-portfolio/)
+[![version](https://img.shields.io/badge/version-v1.1.1-yellow.svg?style=flat)](https://github.com/xodivorce/xodivorce-portfolio/)
 [![PRs](https://img.shields.io/badge/PRs-welcome-blue.svg?style=flat)](https://github.com/xodivorce/xodivorce-portfolio/)
 <br></br>
 
@@ -26,7 +26,7 @@ Want to jump in and sprinkle some magic on this project? Follow these steps:
 2. **Set Up Your Local Playground**:
    - Move the project to your XAMPP `htdocs` folder:
      ```bash
-     mv xodivorce_in /path/to/xampp/htdocs/
+     mv kei_portfolio /path/to/xampp/htdocs/
      ```
 
 3. **Fire Up XAMPP**:
